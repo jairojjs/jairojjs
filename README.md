@@ -6,7 +6,9 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jairojjs59@gmail.com)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](jairosantos2267) 
+
 ![https://github.com/jairojjs](https://github-readme-stats.vercel.app/api?username=jairojjs&theme=radical)
+
 
 ## uso essas tecnologias
 
@@ -19,3 +21,4 @@
 <img oling="center" alt="html" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img olign="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
+
