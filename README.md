@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+
 ### ola eu sou jairo santos ✋
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (jairojjs59@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (jairo santos)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (jairosantos2267) 
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jairojjs59@gmail.com)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](jairosantos2267) 
 ![https://github.com/jairojjs](https://github-readme-stats.vercel.app/api?username=jairojjs&theme=radical)
 
 ## uso essas tecnologias
